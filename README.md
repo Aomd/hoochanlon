@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hoochanlon&show_icons=true)](https://hoochanlon.github.io/about.me/)
 
-铭刻信念之花，面对本是荒芜的沙漠
+铭刻信念之花，用脚步去面对本是荒芜的沙漠
 
 **Languages and Tools:**  
 
