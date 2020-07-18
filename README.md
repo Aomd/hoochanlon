@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning Chinese Capitalism
 - 📫 How to reach me: hoochanlon@outlook.com
-- ⚡ Fun fact: No Weibo, Tik Tok, TouTiao
+- ⚡ Fun fact:  Kaguya-sama: Love is War. Mahou shoujo Madoka
 
 [![](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoochanlon&repo=bujo)](https://github.com/hoochanlon/bujo)
 
