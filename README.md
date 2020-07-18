@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hoochanlon)](https://hoochanlon.github.io/about.me/)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hoochanlon&show_icons=true)](https://hoochanlon.github.io/about.me/)
 
 <!--
 **hoochanlon/hoochanlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
