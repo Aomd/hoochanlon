@@ -30,4 +30,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/hoochanlon/bujo">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoochanlon&repo=bujo" />
-</a>
+</a><br/>
+
+***致谢项目 [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)***
