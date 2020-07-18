@@ -13,6 +13,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
 
+- 🌱 I’m currently learning Chinese Capitalism
+- 📫 How to reach me: hoochanlon@outlook.com
+- ⚡ Fun fact: No Weibo, Tik Tok, TouTiao
+
 [![](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoochanlon&repo=bujo)](https://github.com/hoochanlon/bujo)
 
 
