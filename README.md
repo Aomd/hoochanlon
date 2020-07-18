@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hoochanlon&show_icons=true)](https://hoochanlon.github.io/about.me/)
 
-铭刻信念之花，去面对本是荒芜的沙漠
+铭刻信念之花，去面对本是荒芜的沙漠 —— [James Stockdale - Wikipedia](https://en.wikipedia.org/wiki/James_Stockdale) 信念不能和原则混为一谈，所给我的启示
 
 **Languages and Tools:**  
 
