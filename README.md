@@ -3,13 +3,21 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hoochanlon&show_icons=true)](https://hoochanlon.github.io/about.me/)
 
 ```
-我会永远相信 开始掉下的泪
+地球偶尔太大去练习
 
-你和我的世界 痛褪去更清晰
+沙滩上海浪留下痕迹
 
-我会永远相信 不完美的完美
+剩下心和自己有时太安静
 
-不管什么世界 距离不是距离  —— 《相信》 - 苏打绿 
+自己都不敢看自己
+
+我会永远相信 最后一片落叶
+
+无论什么世界 东风藏在眉心
+
+我会永远相信 扎入心的水滴
+
+在另一个世界 晴空布幔拉起  —— 《相信》 - 苏打绿 
 ```
 
 **Languages and Tools:**  
