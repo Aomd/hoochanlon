@@ -3,6 +3,12 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hoochanlon&show_icons=true)](https://hoochanlon.github.io/about.me/)
 
 ```
+曾经失去很多 多到放弃自我
+
+黄昏最后一盏灯亮起
+
+来得及撑开眼睛
+
 地球偶尔太大去练习
 
 沙滩上海浪留下痕迹
