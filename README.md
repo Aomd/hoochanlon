@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hoochanlon)](https://github.com/hoochanlon/about.me)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hoochanlon)](https://hoochanlon.github.io/about.me/)
 
 <!--
 **hoochanlon/hoochanlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,12 +27,3 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://github.com/hoochanlon/hoochanlon.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoochanlon&repo=hoochanlon.github.io" />
-</a>
-
-<a href="https://github.com/hoochanlon/about.me">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoochanlon&repo=about.me" />
-</a>
