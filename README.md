@@ -15,7 +15,6 @@
 
 [![](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoochanlon&repo=bujo)](https://github.com/hoochanlon/bujo)
 
-***致谢项目 [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)***
 
 <!--
 **hoochanlon/hoochanlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
