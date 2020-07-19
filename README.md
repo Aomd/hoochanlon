@@ -13,7 +13,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
 - ✔ Get: [Zhihu](http://zhihu.com) & [Dcard (TaiWan)](https://www.dcard.tw), [Quora(US)](https://quora.com) , Just skim through it .
-- 🌹 Love: o mo shi re wonna
+- ⚡ Fun fact: Besides 'o mo shi re wonna', I am keen on watching nursery rhymes
 
 [![](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoochanlon&repo=bujo)](https://github.com/hoochanlon/bujo)
 
