@@ -12,7 +12,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
-✔ Get: [zhihu](http://zhihu.com) & [Dcard (TaiWan)](https://www.dcard.tw),[Quora(US)](https://quora.com) .Just skim through it .
+✔ Get: [zhihu](http://zhihu.com) & [Dcard (TaiWan)](https://www.dcard.tw), [Quora(US)](https://quora.com) .Just skim through it .
 
 [![](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoochanlon&repo=bujo)](https://github.com/hoochanlon/bujo)
 
