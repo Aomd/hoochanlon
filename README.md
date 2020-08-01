@@ -15,8 +15,6 @@
 - ✔ Get: [Zhihu](http://zhihu.com) & [Dcard (TaiWan)](https://www.dcard.tw), [Quora(US)](https://quora.com) , Just skim through it .
 - ⚡ Fun fact: I have grown to like 'o mo shi re wonna'& 'mahou shoujo'
 
-[![](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoochanlon&repo=bujo)](https://github.com/hoochanlon/bujo)
-
 
 <!--
 **hoochanlon/hoochanlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
